@@ -1,0 +1,10 @@
+1 создаем .env c данными токен и id
+2 config в которые передаем токен и id
+3 gitignore
+4 loader создаем dp , bot
+5 app для запуска
+6 notify_admins для оповещения о запуске
+7 set_bot_command для пропысывания команд
+8 добавляем в app - [notify_admins, set_bot_command]
+9 handlers папка,
+10 текстовое меню
